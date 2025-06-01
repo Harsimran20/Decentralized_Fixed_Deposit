@@ -61,6 +61,7 @@ Interest calculation
 Rate updates by contract owner
 
 🔐 Security Notes
+-------
 No reentrancy: Follows checks-effects-interactions pattern.
 
 Interest calculations use basis points to avoid precision issues.
