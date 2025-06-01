@@ -44,8 +44,9 @@ Solidity ^0.8.0
 Remix IDE
 
 🔧 Installation & Deployment
+------
+git clone repository
 
-git clone \repository
 cd FixedDepositProtocol
 
 ✅ Test Cases
